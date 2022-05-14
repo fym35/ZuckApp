@@ -43,6 +43,10 @@ if you will need it you will find it
 ❌Working notifications
 ❌Add additional features like double E2EE or maybe plugins and modding?
 
+# ReLeAsE WeN
+
+Soon™
+
 # Cool, what are your other projects?
 
 i reccomend you to checkout:
