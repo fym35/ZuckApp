@@ -55,10 +55,14 @@ Soon™
 # Cool, what are your other projects?
 
 i reccomend you to checkout:
+<br>
 https://github.com/fym35/Foss-Unity-Games-Series
+<br>
 https://github.com/fym35/microgee-gms
+<br>
 https://github.com/fym35/OpenCookieClicker
+<br>
 https://github.com/buildbinary
-
+<br>
 Also checkout https://revanced.app
 
