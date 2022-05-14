@@ -81,3 +81,6 @@ https://gitlab.com/secure-system/Insular
 https://f-droid.org/packages/io.kuenzler.whatsappwebtogo/
 <br>
 I think one of these will work
+
+# Note:
+This project is NOT affiliated or approved by WhatsApp Inc.
