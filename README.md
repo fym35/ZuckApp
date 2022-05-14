@@ -51,7 +51,7 @@ if you will need it you will find it
 <br>
 ✅Reverse Whatsapp - 100%
 <br>
-🟡Basic UI recreation - 48%
+🟡Basic UI recreation - 52%
 <br>
 ❌Make basic implemetation of messages - 2%
 <br>
