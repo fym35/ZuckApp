@@ -68,3 +68,16 @@ https://github.com/buildbinary
 <br>
 Also checkout https://revanced.app
 
+# I need to use something like this right now
+
+https://github.com/Natanji/whatsapp-privacy-version
+<br>
+https://github.com/vitalyturina99/VTWhatsApp
+<br>
+https://github.com/kp7742/KWhatsApp/
+<br>
+https://gitlab.com/secure-system/Insular
+<br>
+https://f-droid.org/packages/io.kuenzler.whatsappwebtogo/
+<br>
+I think one of these will work
