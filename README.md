@@ -40,6 +40,8 @@ if you will need it you will find it
 <br>
 ✅Reverse Whatsapp - 100%
 <br>
+🟡Organize withing zuck's shitty code - 60%
+<br>
 ❌Make basic implemetation of messages - 2%
 <br>
 ❌Complete the app with call and status functionality
