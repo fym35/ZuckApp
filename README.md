@@ -30,6 +30,9 @@ yes it does
 <br>
 ![image](https://user-images.githubusercontent.com/57803365/168420779-c5d43e54-1521-44d6-8d44-ba78fa87db13.png)
 <br>
+![image](https://user-images.githubusercontent.com/57803365/168420914-314aebca-38ea-41f6-b19f-2ffb51a374d3.png)
+
+<br>
 <br>
 but what i saw in the code is still MUCH better than TikTok or Instagram
 
