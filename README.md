@@ -3,7 +3,7 @@ complete foss recreation/client of whatsapp
 
 # Why
 A lot of people that actually care about their privacy (including me)
-are actually forced to use whatsapp because
+are forced to use whatsapp because
 of a ceratin group chat or just because of the network effect
 
 And the fact that whatsapp is owned by the zuck personnaly doesnt really satisfy me
