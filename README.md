@@ -35,12 +35,17 @@ if you will need it you will find it
 # What is the current progress?
 
 ✅Completed 🟡Unfinished ❌Not Completed
-
+<br>
 -----------------
+<br>
 ✅Reverse Whatsapp - 100%
+<br>
 ❌Make basic implemetation of messages - 2%
+<br>
 ❌Complete the app with call and status functionality
+<br>
 ❌Working notifications
+<br>
 ❌Add additional features like double E2EE or maybe plugins and modding?
 
 # Release wen
@@ -55,4 +60,5 @@ https://github.com/fym35/microgee-gms
 https://github.com/fym35/OpenCookieClicker
 https://github.com/buildbinary
 
+Also checkout https://revanced.app
 
