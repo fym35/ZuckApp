@@ -36,7 +36,7 @@ yes it does
 <br>
 but what i saw in the code is still MUCH better than TikTok or Instagram
 
-# What if the ZUCK bans you
+# What if the ZUCK bans you?
 
 I Dont Care 
 i will continue on another git hosting under another name
@@ -52,6 +52,8 @@ if you will need it you will find it
 ✅Reverse Whatsapp - 100%
 <br>
 🟡Organize withing zuck's shitty code - 60%
+<br>
+🟡Basic UI recreation - 48%
 <br>
 ❌Make basic implemetation of messages - 2%
 <br>
