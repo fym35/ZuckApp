@@ -29,6 +29,9 @@ if you need it reverse it yourself
 yes it does
 <br>
 ![image](https://user-images.githubusercontent.com/57803365/168420779-c5d43e54-1521-44d6-8d44-ba78fa87db13.png)
+<br>
+<br>
+but what i saw in the code is still MUCH better than TikTok or Instagram
 
 # What if the ZUCK bans you
 
