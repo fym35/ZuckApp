@@ -25,6 +25,10 @@ to arrive to my mail
 
 if you need it reverse it yourself
 
+# Does whatsapp actually have that much built-in trackers?
+yes it does
+![image](https://user-images.githubusercontent.com/57803365/168420779-c5d43e54-1521-44d6-8d44-ba78fa87db13.png)
+
 # What if the ZUCK bans you
 
 I Dont Care 
