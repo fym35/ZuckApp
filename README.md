@@ -59,6 +59,8 @@ if you will need it you will find it
 <br>
 ❌Working notifications
 <br>
+❌Implement Themes
+<br>
 ❌Add additional features like double E2EE or maybe plugins and modding?
 
 # Release wen
