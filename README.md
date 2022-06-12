@@ -14,7 +14,7 @@ the fact that the only whatsapp alternative client that exists is whatsapp web t
 which just SUCKS tbh is pretty suprising for me...
 
 # How will you find the apis that whatsapp uses
-I will reverse engineer the app
+I will reverse engineer the app and inspect packets on an emulator
 
 # Will you ever release whatsapp's source?
 
