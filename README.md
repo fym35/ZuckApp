@@ -63,6 +63,11 @@ if you will need it you will find it
 <br>
 ❌Add additional features like double E2EE or maybe plugins and modding?
 
+# Why does this take so long
+![image](https://user-images.githubusercontent.com/57803365/174450069-44b4f618-9394-47d2-bd35-3e61e1fa2e83.png)
+![image](https://user-images.githubusercontent.com/57803365/174450130-15c8da34-683b-40e8-b488-6cc01e8c1baf.png)
+
+
 # Release wen
 
 Soon™
