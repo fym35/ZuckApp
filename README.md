@@ -72,20 +72,6 @@ if you will need it you will find it
 
 Soon™
 
-# Cool, what are your other projects?
-
-i reccomend you to checkout:
-<br>
-https://github.com/fym35/Foss-Unity-Games-Series
-<br>
-https://github.com/fym35/microgee-gms
-<br>
-https://github.com/fym35/OpenCookieClicker
-<br>
-https://github.com/buildbinary
-<br>
-Also checkout https://revanced.app
-
 # I need to use something like this right now
 
 https://github.com/Natanji/whatsapp-privacy-version
